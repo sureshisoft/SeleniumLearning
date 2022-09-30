@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="5882" started-at="2022-07-29T11:13:36Z" finished-at="2022-07-29T11:13:42Z">
+  <suite name="Default suite" duration-ms="39242" started-at="2022-09-27T05:27:07Z" finished-at="2022-09-27T05:27:46Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="5882" started-at="2022-07-29T11:13:36Z" finished-at="2022-07-29T11:13:42Z">
-      <class name="seleniumExamples.WaitsExample">
-        <test-method status="PASS" signature="waitExamp()[pri:0, instance:seleniumExamples.WaitsExample@3835c46]" name="waitExamp" duration-ms="5846" started-at="2022-07-29T11:13:36Z" finished-at="2022-07-29T11:13:42Z">
+    <test name="Default test" duration-ms="39242" started-at="2022-09-27T05:27:07Z" finished-at="2022-09-27T05:27:46Z">
+      <class name="seleniumExamples.Windownewtab">
+        <test-method status="PASS" signature="newWindowTab()[pri:0, instance:seleniumExamples.Windownewtab@4a94ee4]" name="newWindowTab" duration-ms="39225" started-at="2022-09-27T05:27:07Z" finished-at="2022-09-27T05:27:46Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- waitExamp -->
-      </class> <!-- seleniumExamples.WaitsExample -->
+        </test-method> <!-- newWindowTab -->
+      </class> <!-- seleniumExamples.Windownewtab -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

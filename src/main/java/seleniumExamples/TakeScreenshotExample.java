@@ -25,9 +25,10 @@ public class TakeScreenshotExample {
 	driver.manage().window().maximize();
 	
 	/*
-	 * TakesScreenshot ts= (TakesScreenshot) driver; File
-	 * src=ts.getScreenshotAs(OutputType.FILE); File tgt = new
-	 * File("D:\\Screenshot\\test.jpg"); FileUtils.copyFile(src, tgt);
+	 * TakesScreenshot ts= (TakesScreenshot) driver; 
+	 * File  src=ts.getScreenshotAs(OutputType.FILE);
+	 *  File tgt = new File("D:\\Screenshot\\test.jpg");
+	 *   FileUtils.copyFile(src, tgt);
 	 */
 	
 	//capturing for Particular section 

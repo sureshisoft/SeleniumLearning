@@ -1,6 +1,7 @@
 package javaExamples;
 
 import java.util.HashMap;
+import java.util.Hashtable;
 import java.util.Map;
 
 import org.testng.annotations.Test;
@@ -23,5 +24,10 @@ public class Hashmap {
 		{
 			System.out.println(en.getKey() + " combination of key value pair" + en.getValue());
 		}
+		
+		Hashtable<Integer,String> ht= new Hashtable<Integer,String>();
+		ht.put(45, "james");
+		System.out.println(ht.get(45));
+		
 	}
 }
